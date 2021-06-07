@@ -2,5 +2,5 @@
 
 ```
 # Quick Install
-curl -sSL https://raw.githubusercontent.com/pornpasok/nvidia-cuda-docker/main/docker_ubuntu1804.sh | sh
+curl -sSL https://raw.githubusercontent.com/pornpasok/install-docker-ubuntu/main/docker_ubuntu1804.sh | sh
 ```
